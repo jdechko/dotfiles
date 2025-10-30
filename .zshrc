@@ -21,3 +21,4 @@ alias python="python3"
 
 # Directories
 alias dotfiles="cd $DOTFILES"
+alias home="cd $HOME"
