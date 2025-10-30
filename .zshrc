@@ -5,6 +5,9 @@ export PATH=
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+# Add usr/local/bin to $PATH
+export PATH=/usr/local/bin:$PATH
+
 # Would you like to use another custom folder than $ZSH/custom?
 ZSH_CUSTOM=$DOTFILES
 
