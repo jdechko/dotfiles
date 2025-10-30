@@ -384,6 +384,11 @@ defaults write com.apple.dock minimize-to-application -bool true
 # the Dock to launch apps.
 defaults write com.apple.dock persistent-apps -array
 
+# Add items to the dock
+dockutil --add /Applications/Finder.app
+dockutil --add /Applications/Mail.app
+dockutil --add /Applications/Music.app
+
 # Show only open applications in the Dock
 # defaults write com.apple.dock static-only -bool true
 
