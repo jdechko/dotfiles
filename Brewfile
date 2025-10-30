@@ -25,7 +25,7 @@ cask 'curseforge'
 cask 'daisydisk'
 #cask 'dolphin'
 cask 'devonthink'
-cask 'fantastical
+cask 'fantastical'
 cask 'garmin-express'
 cask 'google-chrome'
 cask 'handbrake-app'
