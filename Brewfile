@@ -7,9 +7,11 @@ brew 'grep'
 brew 'steamcmd'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
+brew 'wget'
 
 # Apps
 cask '1password'
+cast '1password-cli'
 cask 'audiobook-builder'
 cask 'autodesk-fusion'
 cask 'backblaze'
