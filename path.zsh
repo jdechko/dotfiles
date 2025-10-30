@@ -7,4 +7,5 @@ add_to_path() {
 
 # Load dotfiles binaries
 add_to_path "$DOTFILES/bin"
+add_to_path "~/.local/bin"
 
