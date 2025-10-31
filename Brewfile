@@ -51,3 +51,4 @@ cask 'quicklook-json
 mas 'Things', id: 904280696
 mas 'Tailscale', id: 1475387142
 mas 'parachute-backup', id: 6748614170
+mas 'infuse', id: 1136220934
