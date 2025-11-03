@@ -31,7 +31,6 @@ ln -sw $HOME/.dotfiles/.zshrc $HOME/.zshrc
 brew update
 
 # Install all our dependencies with bundle (See Brewfile)
-brew tap homebrew/bundle
 brew bundle --file ./Brewfile
 
 # Symlink the Mackup config file to the home directory
