@@ -45,7 +45,7 @@ cask 'zoom'
 
 # Quicklook
 cask 'qlmarkdown'
-cask 'quicklook-json
+cask 'quicklook-json'
 
 # Mac App Store
 mas 'Things', id: 904280696
