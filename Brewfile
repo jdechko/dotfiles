@@ -1,6 +1,8 @@
 # Binaries
 brew 'yt-dlp'
 brew 'coreutils' # Those that come with macOS are outdated
+brew 'ffmpeg'
+brew 'ffprobe'
 brew 'gh'
 brew 'git'
 brew 'grep'
