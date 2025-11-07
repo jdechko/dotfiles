@@ -8,6 +8,7 @@ brew 'grep'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'wget'
+brew 'nano'
 
 # Apps
 cask '1password'
