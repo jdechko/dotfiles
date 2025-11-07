@@ -1,0 +1,14 @@
+# Position cursor with mouse click
+set mouse
+
+# Set tab size and replace with spaces
+set tabsize 4
+set tabtospaces
+
+# Keep track of cursor location in recently closed files
+set positionlog
+
+# Display line numbers
+set linenumbers
+
+
