@@ -4,7 +4,6 @@ brew 'coreutils' # Those that come with macOS are outdated
 brew 'gh'
 brew 'git'
 brew 'grep'
-# brew 'steamcmd'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
 brew 'wget'
@@ -13,36 +12,15 @@ brew 'nano'
 # Apps
 cask '1password'
 cask '1password-cli'
-cask 'audiobook-builder'
-cask 'autodesk-fusion'
-#cask 'backblaze'
-#cask 'backblaze-downloader'
 cask 'bbedit'
-#cask 'caffeine'
 cask 'carbon-copy-cloner'
-#cask 'chatgpt'
-cask 'prismlauncher'
-#cask 'daisydisk'
-#cask 'dolphin'
 cask 'devonthink'
 cask 'fantastical'
-#cask 'garmin-express'
 cask 'google-chrome'
-#cask 'handbrake-app'
 cask 'hazel'
-#cask 'jellyfin'
 cask 'keyboard-maestro'
-#cask 'macfuse'
-cask 'makemkv'
 cask 'markdown-service-tools'
-#cask 'microsoft-office'
-cask 'minecraft'
-# cask 'opencore-patcher'
-cask 'porting-kit'
 cask 'tailscale'
-#cask 'the-unarchiver'
-#cask 'transmit'
-$cask 'zoom'
 
 # Quicklook
 cask 'qlmarkdown'
@@ -50,5 +28,32 @@ cask 'quicklook-json'
 
 # Mac App Store
 mas 'Things', id: 904280696
-mas 'parachute-backup', id: 6748614170
 mas 'daisydisk', id: 411643860
+mas 'Infuse' , id: 1136220934
+mas 'Magic Lasso', id: 1198047227
+
+# Optional Files - Laptop
+# cask 'caffeine'
+# cask 'chatgpt'
+
+# Optional Files - Games
+# cask 'minecraft'
+# cask 'porting-kit'
+# cask 'prismlauncher'
+# cask 'dolphin'
+
+# Optional Files - Desktop / Server
+# cask 'handbrake-app'
+# cask 'jellyfin'
+# cask 'makemkv'
+# cask 'audiobook-builder'
+# mas 'parachute-backup', id: 6748614170
+
+# Optional Files - Old Hardware
+# cask 'opencore-patcher'
+
+# Large installs
+# cask 'autodesk-fusion'
+# cask 'microsoft-office'
+# cask 'garmin-express'
+# cask 'zoom'
