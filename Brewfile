@@ -1,13 +1,14 @@
 # Binaries
-brew 'yt-dlp'
 brew 'coreutils' # Those that come with macOS are outdated
+brew 'dockutil'
 brew 'ffmpeg'
 brew 'git'
 brew 'grep'
 brew 'mackup'
 brew 'mas' # Mac App Store manager
-brew 'wget'
 brew 'nano'
+brew 'wget'
+brew 'yt-dlp'
 
 # Apps
 # cask '1password' 
