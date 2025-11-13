@@ -2,8 +2,6 @@
 brew 'yt-dlp'
 brew 'coreutils' # Those that come with macOS are outdated
 brew 'ffmpeg'
-brew 'ffprobe'
-brew 'gh'
 brew 'git'
 brew 'grep'
 brew 'mackup'
@@ -12,7 +10,7 @@ brew 'wget'
 brew 'nano'
 
 # Apps
-cask '1password'
+# cask '1password' 
 cask '1password-cli'
 cask 'bbedit'
 cask 'carbon-copy-cloner'
