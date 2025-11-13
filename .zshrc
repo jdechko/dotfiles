@@ -13,6 +13,7 @@ ZSH_CUSTOM=$DOTFILES
 
 # User configuration
 
+# Configure nano to use homebrew nano (intel)
 # export MANPATH="/usr/local/man:$MANPATH"
 export EDITOR=/usr/local/bin/nano
 export VISUAL="$EDITOR"
