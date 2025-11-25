@@ -1,1 +1,25 @@
 # A Brewfile for server-type applications and applications I don't want on my main machine
+
+# Binaries
+brew 'coreutils' # Those that come with macOS are outdated
+brew 'dockutil'
+brew 'docker'
+brew 'ffmpeg'
+brew 'git'
+brew 'grep'
+brew 'mackup'
+brew 'mas' # Mac App Store manager
+brew 'nano'
+brew 'wget'
+brew 'yt-dlp'
+
+# Apps
+cask '1password-cli'
+cask 'bbedit'
+cask 'carbon-copy-cloner'
+cask 'tailscale'
+cask 'jellyfin'
+
+# Mac App Store
+mas 'daisydisk', id: 411643860
+mas 'parachute-backup', id: 6748614170
