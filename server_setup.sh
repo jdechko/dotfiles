@@ -1,4 +1,4 @@
-#!/bin/sh
+ver#!/bin/sh
 
 echo "Setting up your Mac..."
 
@@ -31,7 +31,7 @@ ln -sw $HOME/.dotfiles/.zshrc $HOME/.zshrc
 brew update
 
 # Install all our dependencies with bundle (See Brewfile)
-brew bundle --file ./Brewfile
+brew bundle --file ./server_Brewfile
 
 # Symlink the Mackup config file to the home directory
 ln -s ~/.dotfiles/.mackup.cfg ~/.mackup.cfg
