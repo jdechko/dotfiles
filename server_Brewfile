@@ -3,7 +3,7 @@
 # Binaries
 brew 'coreutils' # Those that come with macOS are outdated
 brew 'dockutil'
-brew 'docker'
+brew 'docker-desktop'
 brew 'ffmpeg'
 brew 'git'
 brew 'grep'
